@@ -1,0 +1,21 @@
+
+v1.0.3:
+  - New menu section added source 1 & 2 in the same menu.
+  -Search option and menu update in there own housing
+  -Video Tutorial added and updated
+  -Menu rearranged to be more user friendly
+
+
+v1.0.2:
+  - Beta release for testing / feedback
+  - Overide standard context menu, allows direct Adding to Super Favourites from any addon
+  - Back up section added
+  -Novelty section added
+
+
+v1.0.1:
+  - Bug fixes
+
+
+v1.0.0:
+  - Initial release
